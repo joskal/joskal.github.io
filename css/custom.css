@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
 
+
+
 /*body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em;
@@ -15,21 +17,24 @@
   color: #fff;
   background-color: #ad655f;
   font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  border-radius: 0;
 }
-.small-header{
+
+.small-header {
   font-weight: 400;
 }
 
-ul{
-	list-style-type: none;
+ul {
+  list-style-type: none;
 }
 
-big{
-font-size: 2em;
+big {
+  font-size: 2em;
 }
 
-.small-header{
-	color: #fff;
+.small-header {
+  color: #fff;
 }
 
 
@@ -39,12 +44,13 @@ font-size: 2em;
   display: block;
   position: relative;
 }
+
 .icon-list li:before {
   font-family: 'Glyphicons Halflings';
   position: absolute;
   left: 0px;
-  top:3px;
-  font-size:80%
+  top: 3px;
+  font-size: 80%
 }
 
 
@@ -55,12 +61,12 @@ font-size: 2em;
   /* Set the fixed height of the footer here */
   /*height: 100px;*/
   background-color: #f5f5f5;
-  padding-top:30px;
-  padding-bottom:30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .btn {
-	margin:5px;
+  margin: 5px;
 }
 
 
@@ -74,6 +80,7 @@ font-size: 2em;
   white-space: normal;
   vertical-align: baseline;
 }
+
 /*
 .badge-pill {
   padding-right: 0.6em;
@@ -92,14 +99,15 @@ font-size: 2em;
 /********************************************/
 
 .zoom {
-    padding: 50px;
-    transition: transform .5s; /* Animation */
-    width: 200px;
-    height: 200px;
-    margin: 0 auto;
+  padding: 50px;
+  transition: transform .5s;
+  /* Animation */
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
 }
 
 .zoom:hover {
-    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(1.5);
+  /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
-
