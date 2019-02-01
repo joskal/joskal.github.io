@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
+
 /*body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em;
@@ -12,6 +14,10 @@
   margin-bottom: 30px;
   color: #fff;
   background-color: #ad655f;
+  font-family: 'Dancing Script', cursive;
+}
+.small-header{
+  font-weight: 400;
 }
 
 ul{
