@@ -16,15 +16,11 @@
   margin-bottom: 30px;
   color: #fff;
   background-color: #ad655f;
-  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Dancing Script', cursive; */
   font-weight: 700;
   border-radius:0;
 }
 
-.small-header {
-  font-family:'Dancing Script', cursive; 
-  font-weight: 400;
-}
 
 ul {
   list-style-type: none;
