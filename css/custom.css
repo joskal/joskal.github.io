@@ -18,6 +18,9 @@ body {
   border-radius:0;
 }
 
+.small-header {
+  color: #fff;
+}
 
 ul {
   list-style-type: none;
@@ -27,9 +30,6 @@ big {
   font-size: 2em;
 }
 
-.small-header {
-  color: #fff;
-}
 
 
 
